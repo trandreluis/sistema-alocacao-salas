@@ -1,0 +1,9 @@
+# Pastas e arquivos do eclipse
+
+/build/
+
+bin/
+derby.log
+.settings
+.classpath
+.project
